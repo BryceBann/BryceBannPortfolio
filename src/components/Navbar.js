@@ -23,19 +23,6 @@ function Navbar({ currentPage, handlePageChange }) {
               </a>
             </li>
           </Col>
-          <Col className="resume" md={1.5}>
-            <li className="nav-item">
-              <a
-                href="#resume"
-                onClick={() => handlePageChange("Resume")}
-                className={
-                  currentPage === "Resume" ? "nav-link active" : "nav-link"
-                }
-              >
-                Resume
-              </a>
-            </li>
-          </Col>
           <Col className="project" md={1.5}>
             <li className="nav-item">
               <a

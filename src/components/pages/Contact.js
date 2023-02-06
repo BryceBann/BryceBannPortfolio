@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import Button from 'react-bootstrap/Button';
 import emailjs from "emailjs-com";
 import "../../styles/Contact.css";
 import linkedIn from "../assets/icon/linkedin.svg";
@@ -92,7 +93,9 @@ const EmailForm = () => {
         </Col>
 
         <Col className="socialLink">
-          <p>somehting or nothing </p>
+          <a href="https://docs.google.com/document/d/e/2PACX-1vTSLdXJuJZ9KstZ865OMMv2KMcajrSjTFrvHYDy_Brz9RxdC9xOiH3A2sRVdtgj96tiXUDt7ODbPgze/pub" alt=" ">
+          <Button variant="outline-secondary">View Resume</Button>
+          </a>
         </Col>
       </Row>
     </Container>

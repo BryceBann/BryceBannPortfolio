@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Navbar from "./Navbar";
-import Resume from "./pages/Resume";
 import About from "./pages/About";
 import Project from "./pages/Project";
 import Contact from "./pages/Contact";
@@ -17,9 +16,6 @@ export default function Container() {
   const renderPage = () => {
     if (currentPage === "Contact") {
       return <Contact />;
-    }
-    if (currentPage === "Resume") {
-      return <Resume />;
     }
     if (currentPage === "Project") {
       return <Project />;
