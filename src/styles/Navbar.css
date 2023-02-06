@@ -1,0 +1,30 @@
+.nav-item {
+    font-size: 20px;
+}
+
+.moveNav {
+    justify-content: flex-end;
+}
+
+.nav-item {
+    color: black;
+    text-decoration: none;
+}
+
+.nav-item :active {
+    color: black;
+}
+
+.nav-item :visited {
+    color: black;
+}
+
+.nav-item :hover {
+    color: black;
+}  
+
+@media (max-width: 375px) {
+.moveNav{
+    justify-content: space-evenly;
+}
+}

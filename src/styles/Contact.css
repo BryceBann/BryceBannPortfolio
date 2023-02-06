@@ -1,0 +1,58 @@
+.email{
+    margin-bottom: 5%;
+    width: 400px;
+}
+
+.subject{
+    margin-bottom: 5%;
+    width: 400px;
+}
+
+.message{
+    height: 100px;
+    width: 400px;
+    margin-bottom: 5%;
+}
+
+.emailForm{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.img{
+    height: 75px;
+}
+
+.socialLink{
+    margin-left: 13%;
+}
+
+@media (max-width: 400px) {
+
+    .message{
+        width: 300px;
+    }
+
+    .email{
+        width: 300px;
+    }
+
+    .subject{
+        width: 300px;
+    }
+    
+}
+
+@media (max-width: 767px) {
+    .img{
+        height: 50px;
+    }
+}
+
+@media (max-width:430px) {
+    .socialLink{
+        margin-left: 7%;
+    }
+}

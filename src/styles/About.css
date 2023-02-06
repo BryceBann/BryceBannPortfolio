@@ -1,0 +1,46 @@
+p{
+    font-size: 18px;
+}
+
+.aboutMe :hover{
+background-color: lightgray;
+opacity: 1.5;
+}
+
+.skills :hover{
+background-color: lightgray;
+opacity: 1.5;
+}
+
+.education :hover{
+background-color: lightgray;
+opacity: 1.5;
+}
+
+.aboutText{
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+.skillsText{
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+.edText{
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+body{
+    background-image: url(../img/background.jpg);
+}
+
+.tech{
+    list-style: none;
+}
+
+img{
+    height: 35px;
+}
+
+li{
+    margin-bottom: 2%;
+}

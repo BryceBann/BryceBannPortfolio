@@ -1,0 +1,36 @@
+.pic {
+    height: 300px;
+    width: 300px;
+}
+
+.projectCard{
+    width: 300px;
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover{
+    color: black;
+}
+
+.tech{
+    list-style: none;
+}
+
+
+@media (max-width: 576px) { 
+    .pic {
+        height: 200px;
+        width: 200px;
+    }
+}
+
+@media (min-width: 1400px) { 
+    .projectCard {
+       margin-right: 2rem;
+    }
+}

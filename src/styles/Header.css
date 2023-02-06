@@ -1,0 +1,18 @@
+
+.headText :link {
+    color: black;
+    text-decoration: none;
+}
+
+.headText :active {
+    color: black;
+}
+
+.headText :visited {
+    color: black;
+}
+
+.headText{
+    font-size: 35px;
+}
+

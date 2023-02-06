@@ -1,0 +1,10 @@
+.resumeIntro {
+    display: flex;
+    justify-content: center;
+}
+
+.resumeText {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
