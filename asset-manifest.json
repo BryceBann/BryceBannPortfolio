@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BryceBannPortfolio/static/css/main.acbe3b61.css",
-    "main.js": "/BryceBannPortfolio/static/js/main.f73a2390.js",
+    "main.css": "/BryceBannPortfolio/static/css/main.a651ddc3.css",
+    "main.js": "/BryceBannPortfolio/static/js/main.8f45492a.js",
     "static/js/787.b0914177.chunk.js": "/BryceBannPortfolio/static/js/787.b0914177.chunk.js",
     "static/media/oneStop2.PNG": "/BryceBannPortfolio/static/media/oneStop2.9d68e0557802e6e231d9.PNG",
     "static/media/TheTownie.PNG": "/BryceBannPortfolio/static/media/TheTownie.d4a14af8d1e7cc75507e.PNG",
@@ -25,12 +25,12 @@
     "static/media/git-icon.svg": "/BryceBannPortfolio/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
     "index.html": "/BryceBannPortfolio/index.html",
     "static/media/linkedin.svg": "/BryceBannPortfolio/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
-    "main.acbe3b61.css.map": "/BryceBannPortfolio/static/css/main.acbe3b61.css.map",
-    "main.f73a2390.js.map": "/BryceBannPortfolio/static/js/main.f73a2390.js.map",
+    "main.a651ddc3.css.map": "/BryceBannPortfolio/static/css/main.a651ddc3.css.map",
+    "main.8f45492a.js.map": "/BryceBannPortfolio/static/js/main.8f45492a.js.map",
     "787.b0914177.chunk.js.map": "/BryceBannPortfolio/static/js/787.b0914177.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acbe3b61.css",
-    "static/js/main.f73a2390.js"
+    "static/css/main.a651ddc3.css",
+    "static/js/main.8f45492a.js"
   ]
 }
