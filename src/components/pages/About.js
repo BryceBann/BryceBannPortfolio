@@ -29,7 +29,7 @@ export default function About() {
           className="aboutText border border-dark rounded "
         >
           <div className="">
-            <h4>About Me</h4>
+            <h2>About Me</h2>
             <hr />
             <p>
               I am a Fullstack developer with a certification from Vanderbilt
@@ -52,35 +52,35 @@ export default function About() {
             <hr />
             <strong>Front-end</strong>
             <ul className="tech">
-              <li><img src={HTML} alt=" " />HTML</li>
-              <li><img src={CSS} alt=" " />CSS</li>
-              <li><img src={Bootstrap} alt=" " />Bootstrap</li>
-              <li><img src={javascript} alt=" " />JavaScript</li>
-              <li><img src={react} alt=" " />React</li>
-              <li><img src={reactBoot} alt=" " />React Bootstrap</li>
+              <li><img src={HTML} alt=" " /> HTML</li>
+              <li><img src={CSS} alt=" " /> CSS</li>
+              <li><img src={Bootstrap} alt=" " /> Bootstrap</li>
+              <li><img src={javascript} alt=" " /> JavaScript</li>
+              <li><img src={react} alt=" " /> React</li>
+              <li><img src={reactBoot} alt=" " /> React Bootstrap</li>
             </ul>
             <hr />
             <strong>Back-end</strong>
             <ul className="tech">
-              <li><img src={node} alt=" " />Node</li>
-              <li><img src={express} alt=" " />Express</li>
+              <li><img src={node} alt=" " /> Node</li>
+              <li><img src={express} alt=" " className="resize"/> Express</li>
             </ul>
             <hr />
             <strong>Hosting</strong>
             <ul className="tech">
-              <li><img src={heroku} alt=" " />Heroku</li>
-              <li><img src={github} alt=" " />Github Pages</li>
+              <li><img src={heroku} alt=" " /> Heroku</li>
+              <li><img src={github} alt=" " /> Github Pages</li>
             </ul>
             <hr />
             <strong>Database</strong>
             <ul className="tech">
-              <li><img src={mongo} alt=" " />MongoDB</li>
-              <li><img src={mysql} alt=" " />MySQL</li>
+              <li><img src={mongo} alt=" " className="resize"/> MongoDB</li>
+              <li><img src={mysql} alt=" " /> MySQL</li>
             </ul>
             <hr />
             <strong>Version Control</strong>
             <ul className="tech">
-              <li><img src={git} alt=" " />Git</li>
+              <li><img src={git} alt=" " /> Git</li>
             </ul>
           </div>
         </Col>
@@ -92,17 +92,10 @@ export default function About() {
           className="edText border border-dark rounded"
         >
           <div>
-            <h4>Education</h4>
+            <h2>Education</h2>
             <hr />
             <p>
-              Lorem ipsum dolor sit amet, mel ut iracundia consequat
-              accommodare, usu te impedit atomorum definitiones. Quis ponderum
-              consequuntur usu no. Te labitur luptatum per. Equidem deterruisset
-              at mel, ne nulla epicuri has, ei elitr ornatus accusam ius.
-              Copiosae euripidis mel te, mel justo homero at. Nam fastidii
-              antiopam ei, eam tota vivendum conceptam in, sea ut tempor
-              aperiam. Te mea apeirian scripserit, autem indoctum qui no, ignota
-              vocibus vix ad.
+            Received my MERN full-stack development certification through Vanderbilt university in 2023 
             </p>
           </div>
         </Col>

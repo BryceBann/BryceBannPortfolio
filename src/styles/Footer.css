@@ -4,4 +4,26 @@
    justify-content: center;
  }
 
+ span{
+  color: black;
+ }
+
+ .leftFooter{
+  display: flex;
+  justify-content: flex-start;
+ }
+
+ .centerFooter{
+  display: flex;
+  justify-content: center;
+ }
+
+ .rightFooter{
+  display: flex;
+  justify-content: flex-end;
+ }
+
+ .Footer{
+  margin-top: 2%;
+ }
 

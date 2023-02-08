@@ -1,5 +1,5 @@
 p{
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .aboutMe :hover{
@@ -41,6 +41,17 @@ img{
     height: 35px;
 }
 
+.resize{
+    height: 20px
+}
+
 li{
     margin-bottom: 2%;
+}
+
+@media (max-width: 576px) {
+    body{
+    background-image: url(../img/background.jpg);
+    height: 100%;
+    }
 }
